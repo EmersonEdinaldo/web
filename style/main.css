@@ -45,7 +45,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size: 16px;
-    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),url('/img/bd.jpg');
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),url('https://1.bp.blogspot.com/-cQMQWeUejKg/XyQCBry-PwI/AAAAAAAAhHE/yD9Q9lIirRIIie9dEa8hg44rizKUdJNewCLcBGAsYHQ/s1600/1516367128_442397_1516371056_noticia_normal.jpg');
     height: 400px;
     background-size:cover;
     display: flex;
